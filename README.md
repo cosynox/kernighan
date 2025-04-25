@@ -24,7 +24,11 @@ It is only needed to give the command
 ```
 make ex1_4 
 ```
-for example, to compile the program ex1_4.c
-.
+for example, to compile the program ex1_4.c.
+
+The files are numbered like in the book, only that I use the underscore _
+to number the exercises instead of a score -. ex1_4 is the exercise in the
+chapter 1 number 4 that is numbered in the book with 1-4. 
+
 
 
