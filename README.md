@@ -17,13 +17,13 @@ I try to use this style through all my solutions.
 I want to emphasize that it are my solutions and tries and 
 in no way authoritive.
 
-In order to compile my an exercise, I am using the GNU compiler on
+In order to compile an exercise, I am using the GNU compiler on
 my linux and I use make.
 
 It is only needed to give the command
-
+```
 make ex1_4 
-
+```
 for example, to compile the program ex1_4.c
 .
 
